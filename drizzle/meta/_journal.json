@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1771434206154,
+      "tag": "0000_dark_omega_flight",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1771434369042,
+      "tag": "0001_lame_tinkerer",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1771437847599,
+      "tag": "0002_giant_molecule_man",
+      "breakpoints": true
+    }
+  ]
+}
